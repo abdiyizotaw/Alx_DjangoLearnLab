@@ -1,1 +1,1 @@
-Introduction to Django
+intro django
